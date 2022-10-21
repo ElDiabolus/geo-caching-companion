@@ -1,0 +1,9 @@
+pub mod caesar;
+pub mod alphabet_values;
+pub mod fox_code;
+pub mod base_encoding;
+pub mod atbasch;
+pub mod cipher_disk;
+pub mod hashes;
+pub mod tom_tom;
+pub mod morse;
