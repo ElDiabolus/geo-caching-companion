@@ -23,6 +23,7 @@ For this purpose, the app offers many possibilities such as algorithms and other
 - Range
 - Numeric Base Converter
 - Complex Numbers
+- Prime Number
 
 ## Current ToDo:
 
